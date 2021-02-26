@@ -18,3 +18,7 @@
 See also conference presentation:
 
 https://echo360.org.uk/media/86e11c37-c1e2-49cc-9304-a2883cf35474/public
+
+Wikipedia:
+
+https://en.wikipedia.org/wiki/N-ary_Topsis
