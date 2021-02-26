@@ -9,7 +9,7 @@
  Preference can be modelled by imposing stricter or weaker norm operator 
  depending on practical problem. Another generalization in the code is that
  instead of using Euclidean distance code is generalized to Minkowski distance.
- Paper was this published in
+ Paper was published in
 
  P. Luukka, N—ary norm operators and TOPSIS, 2020 IEEE International 
  Conference on Fuzzy Systems (FUZZ-IEEE), Glasgow, UK, 2020, pp. 1-6, 
