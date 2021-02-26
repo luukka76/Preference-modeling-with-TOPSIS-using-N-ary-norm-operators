@@ -14,3 +14,7 @@
  P. Luukka, N—ary norm operators and TOPSIS, 2020 IEEE International 
  Conference on Fuzzy Systems (FUZZ-IEEE), Glasgow, UK, 2020, pp. 1-6, 
  doi: 10.1109/FUZZ48607.2020.9177580.
+
+See also conference presentation:
+
+https://echo360.org.uk/media/86e11c37-c1e2-49cc-9304-a2883cf35474/public
