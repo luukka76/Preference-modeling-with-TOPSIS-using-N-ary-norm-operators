@@ -9,7 +9,8 @@ end
 
 a=zeros(m,n);
 %Normalization to unit interval:
-a=normalization(x);
+%a=normalization(x);
+a=normalize(x,'range'); %matlab's own normalization function
 %weigted normalized decision matrix:
 r=we.*a;
 %Positive and negative ideal solutions:
